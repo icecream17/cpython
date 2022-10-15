@@ -1,4 +1,4 @@
-/*--------------------------------------------------------------------
+/* -------------------------------------------------------------------
  * Licensed to PSF under a Contributor Agreement.
  * See https://www.python.org/psf/license for licensing details.
  *
@@ -8,7 +8,7 @@
  *
  * info@pythonware.com
  * http://www.pythonware.com
- *--------------------------------------------------------------------
+ * -------------------------------------------------------------------
  */
 
 #define PY_SSIZE_T_CLEAN
